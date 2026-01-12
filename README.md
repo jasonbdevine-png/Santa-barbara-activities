@@ -7,7 +7,7 @@ A beautiful, responsive website showcasing free and low-cost activities availabl
 ### Currently Completed Features
 
 1. **Interactive Activities Showcase**
-   - 32 curated activities (19 free + 13 low-cost)
+   - 62 curated activities (46 free + 16 low-cost)
    - Beautiful card-based layout with images
    - Activities sorted with free options prioritized first
 
@@ -48,7 +48,7 @@ webapp/
 │   ├── css/
 │   │   └── style.css       # All styles including responsive design
 │   └── js/
-│       ├── activities.js   # Activity data and configuration
+│       ├── activities.js   # Activity data and configuration (62 activities)
 │       └── main.js         # Main application logic
 ├── dist/                   # Build output
 ├── ecosystem.config.cjs    # PM2 configuration
@@ -72,15 +72,22 @@ webapp/
 ## 📊 Activity Data
 
 ### Categories
-- **Beach** (6 activities) - Beaches, water activities, paddle boarding
-- **Outdoor** (5 activities) - Hiking trails, biking paths
-- **Culture** (6 activities) - Museums, historical sites, architecture
-- **Nature** (6 activities) - Parks, gardens, wildlife refuges
-- **Entertainment** (9 activities) - Markets, events, attractions
+- **Beach** (7 activities) - Beaches, water activities, paddle boarding
+- **Outdoor** (10 activities) - Hiking trails, biking paths, waterfalls
+- **Culture** (14 activities) - Museums, historical sites, architecture, galleries, walking tours
+- **Nature** (11 activities) - Parks, gardens, wildlife refuges, butterfly groves
+- **Entertainment** (20 activities) - Markets, events, festivals, concerts, tours
 
 ### Price Breakdown
-- **Free Activities**: 19 activities (prioritized in display)
-- **Low-Cost Activities**: 13 activities ($1-$10 max)
+- **Free Activities**: 46 activities (prioritized in display)
+- **Low-Cost Activities**: 16 activities ($1-$10 max)
+
+### New Activities Added (from PDF)
+- **Beaches**: West Beach, Thousand Steps Beach, Goleta Beach
+- **Hiking**: Nojoqui Falls Trail, Lizard's Mouth, Tunnel Trail, Cold Spring Trail
+- **Culture**: Chumash Painted Cave, City Hall Gallery, Channing Peake Gallery, Red Tile Walking Tour, Free Walking Tours, Moreton Bay Fig Tree, Chromatic Gate, Santa Barbara Maritime Museum, Santa Barbara Museum of Natural History
+- **Nature**: A.C. Postel Memorial Rose Garden, Ellwood Bluffs Monarch Butterfly Grove, Coal Oil Point Reserve, Cachuma Lake, Rancho La Patera & Stow House
+- **Entertainment**: Harbor & Seafood Festival, Summer Solstice Parade, Old Spanish Days Fiesta, Earth Day Festival, Concerts in the Park, Free Summer Cinema, UCSB Campus Tours, Whale Watching from Shore
 
 ## 🛠️ Technologies Used
 

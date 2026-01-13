@@ -1,7 +1,7 @@
 // ===================================
 // Santa Barbara Activities Data
 // Free activities listed first, then low-cost (max $10)
-// Updated with high-resolution location-specific images
+// Updated with ACTUAL Santa Barbara location-specific images
 // ===================================
 
 const activities = [
@@ -17,7 +17,7 @@ const activities = [
         priceType: "free",
         location: "1118 E Cabrillo Blvd",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1520454974749-611b7248ffdb?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=lpQsopQlxNydRWhMwRk9XHK4m525G9IUj5nYQ0DLgPUvjVWlrpPttKBRfp3hFM2%2B1zLRyb%2Br0K0ZX%2BYOcBFvcbh04mjDD095vyVev%2B%2FJs51DrN12losTWZWXVkfqD15p&u2=H4gz5gPJXtmSs2MD&width=2560",
         tips: "Arrive early on weekends for parking. Volleyball courts are first-come, first-served."
     },
     {
@@ -29,7 +29,7 @@ const activities = [
         priceType: "free",
         location: "Channel Dr, Montecito",
         duration: "1-3 hours",
-        image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=eqmtqB%2FxbfyijGyvS%2BkFusNm4UsQB0Eanm5tLKlx3WKvO8IV0o3F2IEk8EW9XZO4QEURslz%2BbiQmuQrbtpMXFLYx%2B4SxYmVvEbJwc78yP2RusOwdtqVYl0JCUyQBG3hl%2BxfrlK3QdIbiYGNSlkNUAV0X&u2=Mx3x2mKLCCbF5ZK5&width=2560",
         tips: "Best at low tide for exploring tide pools. Limited street parking available."
     },
     {
@@ -41,7 +41,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Dr & Loma Alta Dr",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=eqKwS47Wp%2B5kuq47fhTRYXlcbLiBnaU0%2Fb5vE51ndJ2rD0dvuqMhK%2F6JgNCXJOuokpelIbVzfIWajyjHPzMIqtfkB6SzCEkaUocurwtZWGjSUkiDYeZFXM5PUExvIR9YBxMRQ2YIeK8VaugLyzq8%2FM6u%2B8o%3D&u2=gUjj0u172KPqF1vz&width=2560",
         tips: "Great spot for beginner surfers. Restrooms and showers available."
     },
     {
@@ -53,7 +53,7 @@ const activities = [
         priceType: "free",
         location: "2981 Cliff Dr",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=H0xvhuOsffsjkuVbZgWdvw25aVtiTtC78OFpXFwF8nDaz8x2K3eoU7Fl0VvF%2BJXrzpwBrlA4y2JMmJ4mk8auzZgI7XMzEI0zP697H74mNUl%2BiVbPELya9ZjD9Q%2Fo0hocwf70Gto37qrfvV0h7lCG72LwX1gx&u2=kGIejPMumsvODnsM&width=2560",
         tips: "Dogs allowed off-leash in designated area. Free parking lot fills up fast on weekends."
     },
     {
@@ -65,7 +65,7 @@ const activities = [
         priceType: "free",
         location: "W Cabrillo Blvd",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1476673160081-cf065f30768a?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=KJV8gvYPKwe0Z8iHRyWe8oxSe2rHRIsuS%2F4pKqKiVAK1T2e04d22RCPuxSwRD1PhvFzKgZ%2F1Qy8jUE64wBRxlFFQL%2BJnve69XAHqxieRyIbP6JjnHSUXxynEw5eNq3xp6t1d3EOFsK03VPjrK6WzgMsr2w91XYQ7rHVPXLMNYyFdOn%2F0uYqexFE9XGU4HSGOXIpKtUZcTpFKWIzdmtMMSfjBDLopxp9HVkbc7U5bJbX%2BROXEc2FBFAfliB9xMO%2FUYOpinJaYPutfAQ%3D%3D&u2=e7Zq936y4SZh4II2&width=2560",
         tips: "Calmer waters make it perfect for beginners. Close to Stearns Wharf."
     },
     {
@@ -77,7 +77,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Dr, Santa Barbara",
         duration: "1-3 hours",
-        image: "https://images.unsplash.com/photo-1499678329028-101435549a4e?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=vbIhJ2hz%2BN8ktMQlJGrbCSViwGIr8OZYxrrYF1OfpQE%2FUODH3dvvE6o5jtvEtu2OZeNpq%2BjIWomiB08%2F%2FXVaa6XuFH4PKRWts06m7grgyHM%2FXkVVJih3wZxvwYW9WYS0wZsa1JpIwj5QlryHZoI%3D&u2=XXQg0xVPXUdJl1hL&width=2560",
         tips: "Best at low tide. The stairs can be steep, so wear appropriate footwear."
     },
     {
@@ -89,7 +89,7 @@ const activities = [
         priceType: "free",
         location: "5986 Sandspit Rd, Goleta",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=fyaoP0HxgJSz8mGVijVVrMiuTxtFiXn%2BwqYH0ktsw%2B2CPDPNNbiVULgsEwPv%2BdiLZeIYVnijkWbDYmUCsi%2BDsO91T36oeNRt4KTZtn4s1TjtKyY9uf8rWQ%3D%3D&u2=IqJH4DIuA2crAlXL&width=2560",
         tips: "Great fishing spot from the pier. Restaurant on-site for convenient meals."
     },
     
@@ -103,7 +103,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Trail, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=yqS9teMxJgHPgmY8P2aChbPHLdtfQWuduDYODchkj%2BqCWq3FvQD7rjBChxV%2FkGGvSBMYdsre09hHBM2TjcFNPFQWoYCDQoDq5yp3E5GGpdZrGBn27tTI%2BoymhMZgrR7ggWrHzYoeZZSnzw%3D%3D&u2=qaZDs2qFTvYng2z3&width=2560",
         tips: "Start early to avoid heat. Bring plenty of water and wear sturdy shoes."
     },
     {
@@ -115,7 +115,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Rd, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=G1vgch2M8%2FXNZTbyunNho6Ysn2jYC%2FAAbcTXJQ17WRwJA0PnoHsrffagSJ5%2B5rIcJQaf5PbXgEx1hGu25B9iGSOWZVJnXeNB9AgzK%2BNs2ncY4jJdFil4%2Bg6e0eQm4NLeiYs%2F&u2=iajmnvRx1avg4yMm&width=2560",
         tips: "Trail can be slippery when wet. Swimming is allowed at the pools."
     },
     {
@@ -127,7 +127,7 @@ const activities = [
         priceType: "free",
         location: "Medcliff Rd & Selrose Ln",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=jL50xDy0KbcznvNNeAxqQKnNk39PEQarGcHWdaBuFrjl7z2rArbiRp9V4yX%2BJO6eD8J%2FnkRu8JgFwTrA9vS5wzDHnrZSHCYJi5%2BH9BrVD9Owx3BRo1DZphLrOVbByGL67ziioc%2FyqU5fti21FrIWEhksYTnY7T3NrLU9ENUaVdhkj%2B%2FiLSQ%3D&u2=DUlety1uVHdimz3g&width=2560",
         tips: "Dogs can be off-leash. Multiple trail loops available for different skill levels."
     },
     {
@@ -139,7 +139,7 @@ const activities = [
         priceType: "free",
         location: "Las Canoas Rd",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=ALiJ6FIenmZ1sJAVeygH1UBGnYq9Kx4It1QCMFL%2F4ghL7SOimgO5Ey3RF1%2FiB57VacJKVwxMdxgqyetoWLWhKzYIHvrK77z5zpLQEqAgCza%2Fw1PW047HiRSApvcrCKeryiaULN21xC%2FSIJDtUxHNfw%3D%3D&u2=v9zKqwtDT3G6afRM&width=2560",
         tips: "Despite the name, rattlesnakes are rarely seen. Shaded trail, good for hot days."
     },
     {
@@ -151,7 +151,7 @@ const activities = [
         priceType: "free",
         location: "Nojoqui Falls County Park, Solvang",
         duration: "1 hour",
-        image: "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=QXJxo%2F2%2F5M7OcvoQf9WpQ%2FFC64cMLbUxyQhO0cG4rwFySPsHsjqWhWaopoTvQkmDhYGw7xBsS0BlWUN1YQ61GRhK6FOjPQZ8ZX936SleDXIhJJpJZA%3D%3D&u2=nDotAAJcCK7muzO0&width=2560",
         tips: "Best after winter rains. The park also has picnic areas and BBQ facilities."
     },
     {
@@ -163,7 +163,7 @@ const activities = [
         priceType: "free",
         location: "West Camino Cielo, Santa Barbara",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=G1c0rVWCf0Mgyidq5%2BbcGtKrYeMt5RPdwAXDU1CimYI4OzfN0srxu7cNEjbvKusROAdrO4LI78sRGHWsJo5eE0vbWIUmd%2FbqynKp%2FrTvtX1aXDK5QGgbG%2F%2FOFcovzf8aGSzaaqxymT5idXE%3D&u2=jQwXly1pUUz%2B2K58&width=2560",
         tips: "Great for photography. The road can be narrow, so drive carefully."
     },
     {
@@ -175,7 +175,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Rd, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=DfJaFSBGHIV2H2bs72UR7%2By7Dpbnd3mi10SSvrED5xXgpiTXTel033WlcytFwXB2TCv7QZZDiTCNXyj7EEjc4KuhLc8g2riHUWTd6q59%2B%2BZa0I8YN0f2u%2BgoqcoN00KOT3Z3faQ9siVSAwpwT3kJBckuYfYzY0%2Fd&u2=yq6XDZwszW0T5qM4&width=2560",
         tips: "Multiple trail options for different skill levels. Bring sun protection."
     },
     {
@@ -187,7 +187,7 @@ const activities = [
         priceType: "free",
         location: "Mountain Dr, Montecito",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=eUC398aZ7qc%2FXfNzz2GewmicBSSXBNBnQX47nJp4roWDcbyXJXf0tU95mra8cQ8G7RYMhKQmCHww7pmoGI6hQFR0eO3uBEOnst4DUfH9qWM0JuiiBLexuSF%2BcOt9Wm0G1UI0wrFVn7v5VbQcXwe%2FBpU%3D&u2=wIWkd8gBBbXQDGqf&width=2560",
         tips: "The west fork is more challenging. Creek water not safe for drinking."
     },
     
@@ -201,7 +201,7 @@ const activities = [
         priceType: "free",
         location: "1100 Anacapa St",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=rRAPEsU1qQIHqEGEBPHMUZY9NG1vq5Jff8%2FJv4MFQwls9x9WzYSBgzpirtW3PHka1i7O0xYzIdccXgCaRkUaBI%2Fb2RRDSyfrt6pQWa3x8nfRBDmaaT9pLWOmZ%2BONWtb688sY9khVNJT%2B4b24YQ%3D%3D&u2=9Lmj1BtsI5K5fsgQ&width=2560",
         tips: "Free docent-led tours Mon-Sat at 2pm. Climb the clock tower for the best views."
     },
     {
@@ -213,7 +213,7 @@ const activities = [
         priceType: "free",
         location: "217 Stearns Wharf",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=hzUavcKX9U46S%2F%2By39NWqh4NhN4y4rMRY1MqzCSwuQJwLV%2BPfhq6eS2SX%2FuVBsIXLaCWwmxZTRr%2BWb%2FLM%2Bqpvy%2BNL6LCdyZpXflb%2FqrR6QFbhZVNzqL0oWA%3D&u2=PQcC9BPAdMT0xGwg&width=2560",
         tips: "Visit at sunset for beautiful photos. First 90 minutes of parking is free."
     },
     {
@@ -225,7 +225,7 @@ const activities = [
         priceType: "free",
         location: "132 Harbor Way",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=02tw8MaI4jfzGRJ5feR%2FcR497LtNwCOR4GWJpXAUZnGhLYzQmfKBnL0Lp8VOsUhtzVXYL1e%2BeaP5UMtyDo01Z4ELiZKXJixYMHkP9QKnfZsbfEQHKsaVVJB0E1JgZX0ZwNojJshqtPCwioDZORrFNCsbIIRE2Ps%3D&u2=F5Usv6M%2F5T2zrxX5&width=2560",
         tips: "Walk to the end of the breakwater for panoramic views and sea lion sightings."
     },
     {
@@ -237,7 +237,7 @@ const activities = [
         priceType: "free",
         location: "State Street, Downtown",
         duration: "1-3 hours",
-        image: "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=1dEWTXB5zPURyv02jbQadmO%2FmmvHTKSQALi6G5B8RWwYTeVBlYSWBQceDvtf%2BMCwUwZawxwWkyeMhbUY6Ej4vdOXBAvSEw%2FZctD8CaLhVoS5CbJX%2F1wF1BT5LIcbBcVleuofQINV2bzd3IPzCTWX4aAWD85WPFY43iqBog%3D%3D&u2=jlYUYBBync%2Fs9pwV&width=2560",
         tips: "Best on Saturday mornings when the farmers market is in full swing."
     },
     {
@@ -249,7 +249,7 @@ const activities = [
         priceType: "free",
         location: "136 E De La Guerra St",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1575223970966-76ae61ee7838?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=ajmy0Cu14RAloSayC0bgmZt76cLsMqbNh6xNlAo1lLv%2Ft4RmpYd8lPTC8p%2F545BBDkqMmH%2BXqJuoGm9mGyCfJgtwnl05usOMvIrKpfu4wm1qn%2Ba3lKLN08kPfdEedltcnlaFx6vjpg7CEHBr6wLBXl%2Fh8PvqemvHlOpxvbdNEMf2ESpPChklRv2h5tuBzxn%2FzNeHnxAyJcE98vzba%2B8%3D&u2=H6LHp5c3Rka3HaWJ&width=2560",
         tips: "Always free admission. The courtyard is perfect for a quiet break."
     },
     {
@@ -261,7 +261,7 @@ const activities = [
         priceType: "free",
         location: "Painted Cave Rd, San Marcos Pass",
         duration: "30 minutes",
-        image: "https://images.unsplash.com/photo-1533930083450-178a0df10f6d?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=QgGIRNbrQX0OqeNzMhBt3lvyYzgQyJPRMHD148prA57K%2FMM39OnviydLVHzaSqjKk5MSyaUKdOgImZPUYafmw8XjjKil5cQh8Eav56pSnmEaF2MY5jKqzw%3D%3D&u2=Xmk5BIJyO%2BGMTgAO&width=2560",
         tips: "The road is narrow and winding. Bring a flashlight to see the paintings better."
     },
     {
@@ -273,7 +273,7 @@ const activities = [
         priceType: "free",
         location: "735 Anacapa St",
         duration: "30 minutes - 1 hour",
-        image: "https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=QCUJS1rGrgi%2F%2BDC4Ak%2FLNvTl4o8oQvupxhyETlf4IPrRACxnUZdSbZM%2BSDINEt4Ln0UUklaVJz8x%2FLyrlzwU06mGOQ9w86JWgZ0HBd41Ih4OYBuimTINfnF7oHJwb2Eaeu6Kp3RfqJfrXaIgRQ%3D%3D&u2=ssxeu7HeJw6koP5H&width=2560",
         tips: "Open Monday-Thursday 9 AM-5 PM. Check for special exhibition openings."
     },
     {
@@ -285,7 +285,7 @@ const activities = [
         priceType: "free",
         location: "105 E Anapamu St",
         duration: "30 minutes - 1 hour",
-        image: "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=Jpv%2FcOraQuYyfPyb8uVE3I9mE5dpY%2FdB%2FGZ2RKPi4vMFa0y31Br%2B81ZoSF5SgBM6%2FqFZ0eTRqNXQWPFGMGrGdJrFyKOsvPgolR04vZFL6w%3D%3D&u2=S8t%2FtkcE0AnesMcY&width=2560",
         tips: "Located in the County Administration Building. Great for art enthusiasts."
     },
     {
@@ -297,7 +297,7 @@ const activities = [
         priceType: "free",
         location: "Downtown Santa Barbara",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=UiFDhWvn89MNnEv6FQJD3uqWXbYHcfhJ5iJW%2Bia3F5j7pKDJUAuw2LlW7%2Fr%2FOx7OzymeM18clnPA%2BVP%2BJ%2BENml0jd1M%2FYT3rCvUWp2Y63%2BAKI6rI2moIsG6NmCa6KUtvZQZlZfFSIi%2Bnw32u8wmIu58d8q20%2F4Up05c%3D&u2=2N%2FbUcS8z2gOUWly&width=2560",
         tips: "Pick up a free map at the Visitor Center. Best done in comfortable walking shoes."
     },
     {
@@ -309,7 +309,7 @@ const activities = [
         priceType: "free",
         location: "Various starting points",
         duration: "1.5-2 hours",
-        image: "https://images.unsplash.com/photo-1569949381669-ecf31ae8f6ec?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=atamo52Na4xj263rZgEkLlD2ndKrlX7F0b8NV4vkqmUMWzvAY7RwSmhVIFvZPh7loDTVJrkL3uXDwM9hQnAVrCRN8G4u1CckNJjAf%2BjIv5TdcKrwHGqC3YXP7zXnR4a2LAs%3D&u2=9HKCI4sA1ZvHPxLM&width=2560",
         tips: "Check schedule online. Tips appreciated but not required."
     },
     {
@@ -321,7 +321,7 @@ const activities = [
         priceType: "free",
         location: "201 W Montecito St",
         duration: "15-30 minutes",
-        image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=5kB9J0ZeuHOliiGnUeiIxkOtI7JBPNVt2GDf2y4gHCyWi1u1SulQYSehmQ4sdZ9H1yk%2B54Vx4eynFCR2boilCsPMDovaa8zE%2BGpIghHHlNjreMyGc3iHdx9tKJD8pqH8Sx93qERoadcrEPUnzFE%2B6xAaM3vN&u2=0JrWnDXEHH1MocWz&width=2560",
         tips: "Great photo opportunity. Located near the train station."
     },
     {
@@ -333,7 +333,7 @@ const activities = [
         priceType: "free",
         location: "Cabrillo Blvd at Castillo St",
         duration: "15-30 minutes",
-        image: "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=Vu6zWdp1ifpJRTLfaEIWfP8m8qRQU5rtZIFnzklCkJk%2Bsfw82mbZD8oeXneQc%2FeSquBfvvhCK6eHsuSP6NAZQb9uRObCvqSPCP9JED30WlelNWu6kslYbOZANelBC6Y6j0AQ7qz9D4LMCtHK28jXrGqO7xuTteeTVOUr2OZW34dsBfL1dLZ9%2BfpQdfNHNDDeA2CFtEzuvB1nJWCeOteL0uUBEauY96qenlyo8vfUr6siCzGoM8NeWKGhtCyPJ3%2B%2FPe%2FeuMyruNAtaSMS63RTfJ8%2FDx6yFWeDXDpOH6BIYsEZO1LAxJlly4oS5C9KlA5K2GMnhw%3D%3D&u2=7Ot5FQWM%2Fd7S8ifq&width=2560",
         tips: "Best photographed in the morning light. Near East Beach."
     },
     
@@ -347,7 +347,7 @@ const activities = [
         priceType: "free",
         location: "1500 Santa Barbara St",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=oQT8rHevjyERkEctKfj6PCJSk4vDUCO9t6m3CUuKg1vWlzZB%2BTz7gmjsnNw8MuvGP3K47zkwSoov5VHNhfEZ3vXf%2FjC3deKfF47zK%2FFRBXJF3HPqrkAoK4A%2Brobv3tJuwrcKIe6rjkx7ow%2BqZbhfewL8jv158sVc7rTI%2F%2F3s&u2=F29K%2FaSjUbuVAqxC&width=2560",
         tips: "Bring bread to feed the koi fish. Best visited in spring for blooming flowers."
     },
     {
@@ -359,7 +359,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Dr",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=geV4Wt32eKpUzZIUdLPBVeEPJpAZtPeS19pxgbyck4%2FpRt865DQ45pEdLeb3nsUyoinq%2BwbCqSDJ3woWYv9mjyrUAGdkscDEivFJ9HMcM5sKNdo%2F0ozwjj%2B3ugDEBIrFZaPxzuQ%3D&u2=pn3dcXwtzc9Nvi51&width=2560",
         tips: "Bring binoculars for whale watching (Dec-April). Playground for kids available."
     },
     {
@@ -371,7 +371,7 @@ const activities = [
         priceType: "free",
         location: "1298 Las Positas Rd",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1510797215324-95aa89f43c33?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=7w8efcmlV7%2BkyJHCuAYjXQINNxmzQ2pS%2FLodBXcIe%2FMwAD%2FInudhqOfVxsr9L6HOFXvuYGykWe6YOsX%2FoDEyBj59UkrJ0zKAtwRHLkyS2Lu%2BjbUMJg%3D%3D&u2=3dP%2FhUhKKPXGe9GA&width=2560",
         tips: "Watch paragliders launch from the hilltop. Dog-friendly trails throughout."
     },
     {
@@ -383,7 +383,7 @@ const activities = [
         priceType: "free",
         location: "236 E Cabrillo Blvd",
         duration: "1-3 hours",
-        image: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=OCtFjnppD%2BI3c875J3KdjmhvlO54qy1hXc4hpi%2FxdjD%2FOsUybNRw%2Fowsm%2FzLj%2B%2F3tdxKtIff4cRR8jdCC9MTqjmDVoiUBCBQjTmOfk8oKxGMsj4g5SRPxyfi9js8FxY7hUwKRo5QX7IDmoKXi40g5CsYG1czQPD5yhZKWav6%2B27UgQ%3D%3D&u2=KGyCBQlaZvdxXUNS&width=2560",
         tips: "The Shipwreck Playground is a hit with kids. Sunday Arts & Crafts Show nearby."
     },
     {
@@ -395,7 +395,7 @@ const activities = [
         priceType: "free",
         location: "1400 E Cabrillo Blvd",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1551085254-e96b210db58a?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=%2FgzquLy6PsmGglqVB3nFTstnZeM1YW2q0C5jG%2BlTXz9hJ75Y6ogyurGeRKstiCLTzP3lk4xbpGFp5y58u3JTw9dBgSBqgh%2FTM97S527slnCwP30%2Booe%2BuPBdzTgzJbAuRCDn8T0eqs06GeHiBh8o&u2=m%2Bb4oq315mw49ZbP&width=2560",
         tips: "Bring binoculars for bird watching. Best times are early morning or evening."
     },
     {
@@ -407,7 +407,7 @@ const activities = [
         priceType: "free",
         location: "1500 Mission Ridge Rd",
         duration: "1 hour",
-        image: "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=rfYKwSG20xHwN0OKnHr0DY8ATibl3yVATBhcwcM0D%2Bls4LMUOUzzigYKwsokXzFp7umMLQ%2FpoK7r%2Bva%2F%2B00GGZWzkWmvLRQaoboHYNLCrz1dlZJbfyOeEfMOvcQNbkq84nMPBacG&u2=NWX7cEstyWhQynEs&width=2560",
         tips: "Best visited April-June for peak bloom. Bring a camera for photos."
     },
     {
@@ -419,7 +419,7 @@ const activities = [
         priceType: "free",
         location: "7699 Hollister Ave, Goleta",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=5Q98DS2Db%2FCfX%2BunjUxwpGJpGLqsjBBJDM874YxB1Bmi88sxloAzCoNOTv%2B0t7a45n%2BYmrUIJ2hooFrAIblrJ%2BD%2ByriXSx8GFk8LA2gqIB8ev9Tauazb00sJ%2FQA4Nek%2BzsiA4UNLkuTWoLHj&u2=TZghDTjGXJRouxKg&width=2560",
         tips: "Best viewing November-February. Docents often available to answer questions."
     },
     {
@@ -431,7 +431,7 @@ const activities = [
         priceType: "free",
         location: "Coal Oil Point, Goleta",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=YviHpiRkpLC6trSl3t5wVVHjBUjkyj9MrOTT0ZwkCFsKyzgiQMLW9sIKRXPygAmUvI2mUP1MA5vIVAeBEc3E%2BP4U0tw6iO%2B0UjOhNlXy6s3GIxpvu2IjOA%3D%3D&u2=VmubXZxlH7wIJqDv&width=2560",
         tips: "Stay on marked trails to protect wildlife. Best for bird watching at dawn."
     },
     
@@ -445,7 +445,7 @@ const activities = [
         priceType: "free",
         location: "Santa Barbara & Cota St",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=B6tlDaYIx3A5BbfAswqyADCplTcXxVwC3oj111NC11%2BD%2BZxEixEM0%2Fg5P2ozcVvnadYsu8cGuodprrY6YIfV%2BUSzcwwtKWRV0xKIRwq6RTmyWKoaIMzehXo%3D&u2=z2BzpXFxZnr%2BO%2Bbb&width=2560",
         tips: "Arrive early (8am) for best selection. Bring cash for smaller vendors."
     },
     {
@@ -457,7 +457,7 @@ const activities = [
         priceType: "free",
         location: "Cabrillo Blvd at Chase Palm Park",
         duration: "1-3 hours",
-        image: "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=VQbzZs%2B6192k7RBCaAqAjim6SYrxCvnMBOhSe1pduIU0PkmO5uXeSSf2sU4pyagkKD5ZM16K5wTmb52KFMY5voYJ9rRUKYdGWX8tHymC5oEj2iD3eWX4YvYMmSq46jDDVNpDAo6MVd75hHFV3%2Bi3hfCW8gty&u2=ORQ7b4zCO%2BqiJwjB&width=2560",
         tips: "Every Sunday 10am-dusk. Great place to find unique souvenirs."
     },
     {
@@ -469,7 +469,7 @@ const activities = [
         priceType: "free",
         location: "Various locations",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=qivUw1gDtOJvb%2Bg5g%2Ban7EB84sxnHQc%2BcH3gx%2FgM%2BWyDSVeDH%2F418L%2BADfpxy0CrXlYslKqCuQExaL3HmdJwzNjV%2BhioeSfAILF09eqpAM7o6oHNTZlEqrIQr2ocBZX1BNyv0XI3yQRJAzgAv1QY2hUjgg7CVprvyb2v7AohMx0cDrlQAg%3D%3D&u2=HbeTMcxoan3OKVwa&width=2560",
         tips: "Check local event calendars. Bring blankets and picnic supplies."
     },
     {
@@ -481,7 +481,7 @@ const activities = [
         priceType: "free",
         location: "Santa Barbara Harbor",
         duration: "3-4 hours",
-        image: "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=4193569159%2F%2Fflickr&u2=F5Usv6M%2F5T2zrxX5&width=2560",
         tips: "Usually held in October. Arrive early for the best activities."
     },
     {
@@ -493,7 +493,7 @@ const activities = [
         priceType: "free",
         location: "State Street & Alameda Park",
         duration: "4-6 hours",
-        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=2BVKZSFfY7ChHCMdpvhmYdsc5JIVqUqZsUSb20EOnRHVdhPDkUxYNbETmZzssPZxaFpagMOMqxL%2FmJTiUg9KS04YIMY%3D&u2=3TcSJSY%2BWGJf%2FXbW&width=2560",
         tips: "Held in late June. No written words or motors allowed in the parade!"
     },
     {
@@ -505,7 +505,7 @@ const activities = [
         priceType: "free",
         location: "Various locations downtown",
         duration: "Variable",
-        image: "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=3sjsHAJWI7m7vE6kFcvfClQSvYM%2FDeq0cwpfTc9JiBbGLCUSQ%2FrKWYi3v2vmgTTXRgHgz26xOo4uHWIfPcj5SE0hCShYn%2BPwHXVdPTxQkjlZ3%2Fl8MIZ1PIOrP%2F875FO1kWc%3D&u2=I%2FxopFOPiNQIxnh2&width=2560",
         tips: "Held in August. Many free events, some ticketed. El Mercado De La Guerra is free."
     },
     {
@@ -517,7 +517,7 @@ const activities = [
         priceType: "free",
         location: "Alameda Park",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=ob23QaaEfT72NR9sLGgKnPxCcJ681%2FfRbXqIljS0iKbOH9GY9sSp4h6Xz%2FSRyMNC7bM3%2Fq1b7uzRaQn06k6yjwHfgQtZrIySxx2kKKdclNxBJxk2m4NclbNlOihqjgSDKhXX&u2=kVYeJNGxGm%2Bdbjkd&width=2560",
         tips: "Held in April. Bring reusable bags and water bottles."
     },
     {
@@ -529,7 +529,7 @@ const activities = [
         priceType: "free",
         location: "Chase Palm Park Great Meadow",
         duration: "1.5-2 hours",
-        image: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=qivUw1gDtOJvb%2Bg5g%2Ban7EB84sxnHQc%2BcH3gx%2FgM%2BWyDSVeDH%2F418L%2BADfpxy0CrXlYslKqCuQExaL3HmdJwzNjV%2BhioeSfAILF09eqpAM7o6oHNTZlEqrIQr2ocBZX1BNyv0XI3yQRJAzgAv1QY2hUjgg7CVprvyb2v7AohMx0cDrlQAg%3D%3D&u2=HbeTMcxoan3OKVwa&width=2560",
         tips: "Thursdays 6-7:30 PM during summer. Bring a blanket and picnic dinner."
     },
     {
@@ -541,7 +541,7 @@ const activities = [
         priceType: "free",
         location: "SB County Courthouse Sunken Garden",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=GGYpmP%2Be8uid07wEc3kqh08naDHiI%2Bk4b9f7vNO%2B28FwOHgdDlLctpHWkctxHGih0g7ECncyWy9r7WcS7AnjHVSbopeVfqMg7LdyoDVz06KGiFbg8tfPQecfnzOGxxP6V2vudVf6Uq%2FbD8tgmg%3D%3D&u2=eQQPfsJbMnNNMmiW&width=2560",
         tips: "Arrive early for good spots. Bring blankets, snacks, and warm layers."
     },
     {
@@ -553,7 +553,7 @@ const activities = [
         priceType: "free",
         location: "UCSB Campus, Goleta",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=EmSolYRPLGEG7EII%2FL4nVuUtUlO9x4FGEwEPr1zXukjGfx1wFkQgGHfgHaLwiteU1KhNquoQqHhUw7DX5KUyKdveDN0exl1DqRNanic9%2Bd6M1mlFyvDpo%2F4%3D&u2=m2uTwk4wRqrfbJca&width=2560",
         tips: "Check online for tour schedules. The campus beach is worth visiting."
     },
     {
@@ -565,7 +565,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Park & other coastal points",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=P3gJZ6eVKcjTWCsEV0zCbspxcRyeTcKUqoUajVThcjnng%2F9t5YTm80mx6lOaixz4aowh0WzVHgw2sIMVcuqo4%2BYJt9vFAKdNsa1U7qcO8FD%2B1poLWn2JW8igGydeTbBVHvFNU19hqiUlTtwvcWENag%3D%3D&u2=aqMmx633w1JZEQdW&width=2560",
         tips: "Best viewing December-April. Bring binoculars for better sightings."
     },
     
@@ -581,7 +581,7 @@ const activities = [
         priceType: "lowcost",
         location: "Santa Barbara Harbor",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1526188717906-ab4a2f949f26?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=IQzOzYDWgQTQp9v%2BIT5LhPPXE%2FUcEnGT7HTF183izlpRxTLnpEn23UtZX%2Fay6xG3xyHGsFyTqzdH64rUOPCCLL%2FGIZxkhe1%2Bec6oZoEC7A%3D%3D&u2=zEdAPOZXlrxy6pUS&width=2560",
         tips: "Morning hours offer calmest water. Group rates often available."
     },
     {
@@ -593,7 +593,7 @@ const activities = [
         priceType: "lowcost",
         location: "Santa Barbara Harbor",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=vvM5HXDjlTKpAaz67lYwjtP%2F2QVYj7jcBBSbdISUHbdbkll85j%2B%2BtHPn6v%2FRIwoFDZiCntDZGAwZTsxDG1OYOtitVAFWzPx44JGD5xiDVFBcQ3kh&u2=6Y4IXId0eVPkpNdk&width=2560",
         tips: "Single kayaks around $10/hour. Double kayaks slightly more."
     },
     
@@ -607,7 +607,7 @@ const activities = [
         priceType: "lowcost",
         location: "1130 State St",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=i07d4V7L9nFmqc4S6o18cL4GUx1nEQQSYHGOYBnSjRn2fmk%2FKwa8SWlCNfQwHUuuWEU1ekEJIKts4n7TvbrDbhyvw5ctb6h84qv0WNJUuGysQdyqgI0%2BMlsVvlV4MO8iwVNZFPvsb%2BFBZA%2BbQLs4CRr2H8Uh8ouiyJjHQI18gtw0SOmQOw8%3D&u2=A9l09TDkFix0OOGR&width=2560",
         tips: "Free First Thursday evenings (5-8 PM) and Second Sundays. $6 for children 6-17."
     },
     {
@@ -619,7 +619,7 @@ const activities = [
         priceType: "lowcost",
         location: "2201 Laguna St",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=4p%2F06vRcDDcjk0ke8lIVgUPjgXfLlZ4VpzQAbNX5nrXYPNPSzW%2FpGslzbuB9aXdp46w5rrW3ymccPvdkvgRT%2BBNaGyEtBqtgxrSUzOkr9QVSA%2Bs77Mh8RlfgDQRuuH0HX%2Fz0zADk0bZoT59B4Gz11yYKTPtoSQ%3D%3D&u2=%2FFjnjX4pUnlbiVwr&width=2560",
         tips: "Self-guided tour included with admission. Courtyard and grounds free to explore."
     },
     {
@@ -631,7 +631,7 @@ const activities = [
         priceType: "lowcost",
         location: "123 E Canon Perdido St",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1590735213920-68192a487bc2?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=amD5Yzj6zT0KvGq6ihvDCqJsfIfrZP%2B3GjKqTJ5oR08uMRQ9GtarJWeR5dslul%2FiZYAK0paMBtw73LstGttFI3niD2j5SkLW7HZJfaRKeRCnxw90AofOvia0FslI5p6Syzrqu2cpTXm%2FB2vEx6hchDRSlOVNjSedpAqgxfu5jWdy5ozfpg%3D%3D&u2=%2BfePkmRreSZGjaNq&width=2560",
         tips: "Combined ticket available with other historic sites. Guided tours on weekends."
     },
     {
@@ -643,7 +643,7 @@ const activities = [
         priceType: "lowcost",
         location: "113 Harbor Way",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=8969360752%2F%2Fflickr&u2=F5Usv6M%2F5T2zrxX5&width=2560",
         tips: "$8 for seniors, $2 with EBT card. Third Thursday free 5-8 PM."
     },
     {
@@ -655,7 +655,7 @@ const activities = [
         priceType: "lowcost",
         location: "2559 Puesta del Sol",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1566274360936-69fae3dc0f29?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=e8MoAXE6VXinl9xd93XKKBRhEsC4MD2OFQ5aZpRXzLtlLrl15OD8yxEepoqMvGoC2peamsbxHo67iCKCGTLc97KF4khTMu4Nx5NCJBMia4vW7K1gjZGU5Txa%2BiILZgQaI2R1iNLNqdYJ&u2=Gls6aUOgXJnchTAf&width=2560",
         tips: "$3 with EBT card for up to 4 people. Free through SoCal Museums Free-For-All."
     },
     
@@ -669,7 +669,7 @@ const activities = [
         priceType: "lowcost",
         location: "1212 Mission Canyon Rd",
         duration: "2-3 hours",
-        image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=ZlVkEFJEg13zdviFDCiTE5DqNOu7%2F0XVhlRfWsGZlMdueJ4X3qidov1oSoMGS%2F2F045AtGYl97TTF9wSOwX7B54EWRMvbkyv0VqrzGjBbyhn6EaqOb0WMIS7lhA7&u2=Mqr9V4KA6fdqsZOU&width=2560",
         tips: "Free first Sunday of each month. Free for seniors 60+ on specific dates."
     },
     {
@@ -681,7 +681,7 @@ const activities = [
         priceType: "lowcost",
         location: "500 Ninos Dr",
         duration: "2-4 hours",
-        image: "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=Y05saw2KXkicOUv%2FUYUHu04NGP2artU%2BYZwexYOTzp1MRp7mZSYKcSjaFbg6TCXqfFzczR7CXXXr8eIYHDtt5jDPNFgiKI6EGI1tYWHkDLKT6Il12UexdfgDfDM2TLSi5AHtzpGMvJACWErW8yZoLzGwUhc5NLqfeimCuW%2FCIQ%3D%3D&u2=o7xzKOmXbbOqYnYI&width=2560",
         tips: "$3 admission for families receiving food assistance. Children under 2 free."
     },
     {
@@ -693,7 +693,7 @@ const activities = [
         priceType: "lowcost",
         location: "2225 Highway 154, Santa Barbara",
         duration: "3-5 hours",
-        image: "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=FuDU0rMKVUs%2BDOWNchEFfWweQFqLZM62dQnPxW2XQfZHfJiySabJ0zRTpHYyhXYbAZ4AuarU3QmyauyvS5i8vYNCWmYGP9Dw%2FGK2%2FGr6v1a4a3B4ZW7mTHvW5LqY7QxrmQzleWSVDrttq5cSxq5kJbC%2FU1PFH4T5AegrfP4kVLg%3D&u2=SRC%2Bd0GdYNYDk5sO&width=2560",
         tips: "$10 per vehicle includes nature programs. Eagle cruises available in winter."
     },
     {
@@ -705,7 +705,7 @@ const activities = [
         priceType: "lowcost",
         location: "304 N Los Carneros Rd, Goleta",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=aZNgo2WXGD7bM0N9zizCZMkgZjRwBATw2HmY3b4Z%2FDnsy9J3kGWiwMRXF58F%2BmpmkPHCLRbhNp6vcZrsTQlBlsX4142ltwxITiKKJSj3cp1fmAT%2BnyQ5%2FIevREDmZG%2Bf1voCwbqo7B1QB0QM&u2=rNaYpsTySLl%2FHLgI&width=2560",
         tips: "Suggested donation. Beautiful grounds for picnicking."
     },
     
@@ -719,7 +719,7 @@ const activities = [
         priceType: "lowcost",
         location: "236 E Cabrillo Blvd",
         duration: "30 minutes",
-        image: "https://images.unsplash.com/photo-1570179538662-166d2bffed42?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=FkwC7WfG0b994xfClZGLV2%2B2avh4zb0y1sw4MWTfNSrcc2KLj2YjjSJlsDGgyykyjwniU1NJGOmYk%2F4OHJpeFEIyNK5RmqpNku6LfbsTJ6EQAsgF%2B5sZlbnqUya4GPsQIsAH1%2FMHfkzM8QiszCk%3D&u2=ZC1x8CXV7VWiWzUG&width=2560",
         tips: "Open daily during summer, weekends in winter. Cash preferred."
     },
     {
@@ -731,7 +731,7 @@ const activities = [
         priceType: "lowcost",
         location: "Various waterfront locations",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=Wb%2BAZhjjuyFf4u3oKumswWIWzRW7QZn%2BqnZ8SLzZtf63wGPWj5w97Z8Ta0g0nDSnr7prn8jAG9MSxNSDY7cRQkFWsc9bB3hhp4EnEmpXpNb21Cpo7dH9%2B0YHiCqgltmD2jgJgQ%3D%3D&u2=4xBMT%2FceYfU8AMa3&width=2560",
         tips: "Many tasting fees waived with bottle purchase. The Funk Zone has multiple options."
     },
     {
@@ -743,7 +743,7 @@ const activities = [
         priceType: "lowcost",
         location: "211 Stearns Wharf",
         duration: "1-2 hours",
-        image: "https://images.unsplash.com/photo-1544551763-92ab472cad5d?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=6035466664%2F%2Fflickr&u2=F5Usv6M%2F5T2zrxX5&width=2560",
         tips: "Third Thursday of each month is free (3-5pm). Great for kids."
     },
     
@@ -757,7 +757,7 @@ const activities = [
         priceType: "lowcost",
         location: "Various rental shops",
         duration: "1-3 hours",
-        image: "https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?w=800&h=500&fit=crop&q=80",
+        image: "https://sspark.genspark.ai/cfimages?u1=3oL%2Bb%2FBG2TNTK82HUkBV6ybU0pXP9UkY2LYKoCGomNOLjn0D1OVxUfHxilCcgPPZP6cxOTbBwFQ6Jc8B1hr1%2FEUXONAYRxR8y0Vi51Wc%2BmLFve3gsxxnkEAVKm5tRvHKBFJFg7Q%3D&u2=XEEOsSKTE%2F41K8Ew&width=2560",
         tips: "Hourly rentals available. Surrey bikes and electric bikes cost more."
     }
 ];

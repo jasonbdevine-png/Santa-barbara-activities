@@ -71,7 +71,7 @@ a {
     align-items: center;
     text-align: center;
     background: linear-gradient(135deg, rgba(30, 96, 145, 0.7) 0%, rgba(42, 159, 214, 0.6) 50%, rgba(135, 206, 235, 0.5) 100%),
-                url('https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Santa_Barbara_-_panoramio_%2813%29.jpg/2560px-Santa_Barbara_-_panoramio_%2813%29.jpg');
+                url('https://images.unsplash.com/photo-1527824404775-dce343118ebc?w=1920&h=1080&fit=crop&q=85');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

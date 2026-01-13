@@ -17,7 +17,7 @@ const activities = [
         priceType: "free",
         location: "1118 E Cabrillo Blvd",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Santa_Barbara%2C_California_-_panoramio_%2810%29.jpg/1280px-Santa_Barbara%2C_California_-_panoramio_%2810%29.jpg",
+        image: "https://images.unsplash.com/photo-1520454974749-611b7248ffdb?w=800&h=500&fit=crop&q=80",
         tips: "Arrive early on weekends for parking. Volleyball courts are first-come, first-served."
     },
     {
@@ -29,7 +29,7 @@ const activities = [
         priceType: "free",
         location: "Channel Dr, Montecito",
         duration: "1-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Butterfly_Beach%2C_Montecito%2C_California.jpg/1280px-Butterfly_Beach%2C_Montecito%2C_California.jpg",
+        image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=500&fit=crop&q=80",
         tips: "Best at low tide for exploring tide pools. Limited street parking available."
     },
     {
@@ -41,7 +41,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Dr & Loma Alta Dr",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Leadbetter_Beach_Santa_Barbara.jpg/1280px-Leadbetter_Beach_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&h=500&fit=crop&q=80",
         tips: "Great spot for beginner surfers. Restrooms and showers available."
     },
     {
@@ -53,7 +53,7 @@ const activities = [
         priceType: "free",
         location: "2981 Cliff Dr",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arroyo_Burro_Beach_Santa_Barbara.jpg/1280px-Arroyo_Burro_Beach_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?w=800&h=500&fit=crop&q=80",
         tips: "Dogs allowed off-leash in designated area. Free parking lot fills up fast on weekends."
     },
     {
@@ -65,7 +65,7 @@ const activities = [
         priceType: "free",
         location: "W Cabrillo Blvd",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/West_Beach_and_Stearns_Wharf%2C_Santa_Barbara%2C_California.jpg/1280px-West_Beach_and_Stearns_Wharf%2C_Santa_Barbara%2C_California.jpg",
+        image: "https://images.unsplash.com/photo-1476673160081-cf065f30768a?w=800&h=500&fit=crop&q=80",
         tips: "Calmer waters make it perfect for beginners. Close to Stearns Wharf."
     },
     {
@@ -77,7 +77,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Dr, Santa Barbara",
         duration: "1-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Shoreline_Park_Santa_Barbara.jpg/1280px-Shoreline_Park_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1499678329028-101435549a4e?w=800&h=500&fit=crop&q=80",
         tips: "Best at low tide. The stairs can be steep, so wear appropriate footwear."
     },
     {
@@ -89,7 +89,7 @@ const activities = [
         priceType: "free",
         location: "5986 Sandspit Rd, Goleta",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Goleta_Beach_Park_pier.jpg/1280px-Goleta_Beach_Park_pier.jpg",
+        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&h=500&fit=crop&q=80",
         tips: "Great fishing spot from the pier. Restaurant on-site for convenient meals."
     },
     
@@ -103,7 +103,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Trail, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/View_from_Inspiration_Point%2C_Santa_Barbara.jpg/1280px-View_from_Inspiration_Point%2C_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=500&fit=crop&q=80",
         tips: "Start early to avoid heat. Bring plenty of water and wear sturdy shoes."
     },
     {
@@ -115,7 +115,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Rd, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seven_Falls_Santa_Barbara.jpg/800px-Seven_Falls_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800&h=500&fit=crop&q=80",
         tips: "Trail can be slippery when wet. Swimming is allowed at the pools."
     },
     {
@@ -127,7 +127,7 @@ const activities = [
         priceType: "free",
         location: "Medcliff Rd & Selrose Ln",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Douglas_Family_Preserve_Santa_Barbara.jpg/1280px-Douglas_Family_Preserve_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=800&h=500&fit=crop&q=80",
         tips: "Dogs can be off-leash. Multiple trail loops available for different skill levels."
     },
     {
@@ -139,7 +139,7 @@ const activities = [
         priceType: "free",
         location: "Las Canoas Rd",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Rattlesnake_Canyon_Trail_Santa_Barbara.jpg/1024px-Rattlesnake_Canyon_Trail_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&h=500&fit=crop&q=80",
         tips: "Despite the name, rattlesnakes are rarely seen. Shaded trail, good for hot days."
     },
     {
@@ -151,7 +151,7 @@ const activities = [
         priceType: "free",
         location: "Nojoqui Falls County Park, Solvang",
         duration: "1 hour",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Nojoqui_Falls.jpg/800px-Nojoqui_Falls.jpg",
+        image: "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=800&h=500&fit=crop&q=80",
         tips: "Best after winter rains. The park also has picnic areas and BBQ facilities."
     },
     {
@@ -163,7 +163,7 @@ const activities = [
         priceType: "free",
         location: "West Camino Cielo, Santa Barbara",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lizards_Mouth_Santa_Barbara.jpg/1280px-Lizards_Mouth_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=500&fit=crop&q=80",
         tips: "Great for photography. The road can be narrow, so drive carefully."
     },
     {
@@ -175,7 +175,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Rd, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Santa_Barbara_from_above.jpg/1280px-Santa_Barbara_from_above.jpg",
+        image: "https://images.unsplash.com/photo-1501555088652-021faa106b9b?w=800&h=500&fit=crop&q=80",
         tips: "Multiple trail options for different skill levels. Bring sun protection."
     },
     {
@@ -187,7 +187,7 @@ const activities = [
         priceType: "free",
         location: "Mountain Dr, Montecito",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Cold_Spring_Trail_Montecito.jpg/1024px-Cold_Spring_Trail_Montecito.jpg",
+        image: "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=800&h=500&fit=crop&q=80",
         tips: "The west fork is more challenging. Creek water not safe for drinking."
     },
     
@@ -201,7 +201,7 @@ const activities = [
         priceType: "free",
         location: "1100 Anacapa St",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Santa_Barbara_County_Courthouse_Tower.jpg/800px-Santa_Barbara_County_Courthouse_Tower.jpg",
+        image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=500&fit=crop&q=80",
         tips: "Free docent-led tours Mon-Sat at 2pm. Climb the clock tower for the best views."
     },
     {
@@ -213,7 +213,7 @@ const activities = [
         priceType: "free",
         location: "217 Stearns Wharf",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stearns_Wharf_Santa_Barbara_California.jpg/1280px-Stearns_Wharf_Santa_Barbara_California.jpg",
+        image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=500&fit=crop&q=80",
         tips: "Visit at sunset for beautiful photos. First 90 minutes of parking is free."
     },
     {
@@ -225,7 +225,7 @@ const activities = [
         priceType: "free",
         location: "132 Harbor Way",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Barbara_Harbor_2015.jpg/1280px-Santa_Barbara_Harbor_2015.jpg",
+        image: "https://images.unsplash.com/photo-1559827291-72ee739d0d9a?w=800&h=500&fit=crop&q=80",
         tips: "Walk to the end of the breakwater for panoramic views and sea lion sightings."
     },
     {
@@ -237,7 +237,7 @@ const activities = [
         priceType: "free",
         location: "State Street, Downtown",
         duration: "1-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/State_Street_Santa_Barbara.jpg/1280px-State_Street_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=800&h=500&fit=crop&q=80",
         tips: "Best on Saturday mornings when the farmers market is in full swing."
     },
     {
@@ -249,7 +249,7 @@ const activities = [
         priceType: "free",
         location: "136 E De La Guerra St",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Santa_Barbara_Historical_Museum.jpg/1024px-Santa_Barbara_Historical_Museum.jpg",
+        image: "https://images.unsplash.com/photo-1575223970966-76ae61ee7838?w=800&h=500&fit=crop&q=80",
         tips: "Always free admission. The courtyard is perfect for a quiet break."
     },
     {
@@ -261,7 +261,7 @@ const activities = [
         priceType: "free",
         location: "Painted Cave Rd, San Marcos Pass",
         duration: "30 minutes",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Chumash_Painted_Cave.jpg/1024px-Chumash_Painted_Cave.jpg",
+        image: "https://images.unsplash.com/photo-1533930083450-178a0df10f6d?w=800&h=500&fit=crop&q=80",
         tips: "The road is narrow and winding. Bring a flashlight to see the paintings better."
     },
     {
@@ -273,7 +273,7 @@ const activities = [
         priceType: "free",
         location: "735 Anacapa St",
         duration: "30 minutes - 1 hour",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Santa_Barbara_City_Hall.jpg/1280px-Santa_Barbara_City_Hall.jpg",
+        image: "https://images.unsplash.com/photo-1577720643272-265f09367456?w=800&h=500&fit=crop&q=80",
         tips: "Open Monday-Thursday 9 AM-5 PM. Check for special exhibition openings."
     },
     {
@@ -285,7 +285,7 @@ const activities = [
         priceType: "free",
         location: "105 E Anapamu St",
         duration: "30 minutes - 1 hour",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Santa_Barbara_Public_Library.jpg/1280px-Santa_Barbara_Public_Library.jpg",
+        image: "https://images.unsplash.com/photo-1531243269054-5ebf6f34081e?w=800&h=500&fit=crop&q=80",
         tips: "Located in the County Administration Building. Great for art enthusiasts."
     },
     {
@@ -297,7 +297,7 @@ const activities = [
         priceType: "free",
         location: "Downtown Santa Barbara",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Santa_Barbara_downtown_Spanish_architecture.jpg/1280px-Santa_Barbara_downtown_Spanish_architecture.jpg",
+        image: "https://images.unsplash.com/photo-1582555172866-f73bb12a2ab3?w=800&h=500&fit=crop&q=80",
         tips: "Pick up a free map at the Visitor Center. Best done in comfortable walking shoes."
     },
     {
@@ -309,7 +309,7 @@ const activities = [
         priceType: "free",
         location: "Various starting points",
         duration: "1.5-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Funk_Zone_Santa_Barbara.jpg/1280px-Funk_Zone_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1569949381669-ecf31ae8f6ec?w=800&h=500&fit=crop&q=80",
         tips: "Check schedule online. Tips appreciated but not required."
     },
     {
@@ -321,7 +321,7 @@ const activities = [
         priceType: "free",
         location: "201 W Montecito St",
         duration: "15-30 minutes",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Moreton_Bay_Fig_Tree_Santa_Barbara.jpg/1280px-Moreton_Bay_Fig_Tree_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=800&h=500&fit=crop&q=80",
         tips: "Great photo opportunity. Located near the train station."
     },
     {
@@ -333,7 +333,7 @@ const activities = [
         priceType: "free",
         location: "Cabrillo Blvd at Castillo St",
         duration: "15-30 minutes",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Chromatic_Gate_Santa_Barbara.jpg/1280px-Chromatic_Gate_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?w=800&h=500&fit=crop&q=80",
         tips: "Best photographed in the morning light. Near East Beach."
     },
     
@@ -347,7 +347,7 @@ const activities = [
         priceType: "free",
         location: "1500 Santa Barbara St",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alice_Keck_Park_Memorial_Garden.jpg/1280px-Alice_Keck_Park_Memorial_Garden.jpg",
+        image: "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=800&h=500&fit=crop&q=80",
         tips: "Bring bread to feed the koi fish. Best visited in spring for blooming flowers."
     },
     {
@@ -359,7 +359,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Dr",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Shoreline_Park_Santa_Barbara.jpg/1280px-Shoreline_Park_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=500&fit=crop&q=80",
         tips: "Bring binoculars for whale watching (Dec-April). Playground for kids available."
     },
     {
@@ -371,7 +371,7 @@ const activities = [
         priceType: "free",
         location: "1298 Las Positas Rd",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Elings_Park_Santa_Barbara.jpg/1280px-Elings_Park_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1510797215324-95aa89f43c33?w=800&h=500&fit=crop&q=80",
         tips: "Watch paragliders launch from the hilltop. Dog-friendly trails throughout."
     },
     {
@@ -383,7 +383,7 @@ const activities = [
         priceType: "free",
         location: "236 E Cabrillo Blvd",
         duration: "1-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chase_Palm_Park_Santa_Barbara.jpg/1280px-Chase_Palm_Park_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=800&h=500&fit=crop&q=80",
         tips: "The Shipwreck Playground is a hit with kids. Sunday Arts & Crafts Show nearby."
     },
     {
@@ -395,7 +395,7 @@ const activities = [
         priceType: "free",
         location: "1400 E Cabrillo Blvd",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Andree_Clark_Bird_Refuge.jpg/1280px-Andree_Clark_Bird_Refuge.jpg",
+        image: "https://images.unsplash.com/photo-1551085254-e96b210db58a?w=800&h=500&fit=crop&q=80",
         tips: "Bring binoculars for bird watching. Best times are early morning or evening."
     },
     {
@@ -407,7 +407,7 @@ const activities = [
         priceType: "free",
         location: "1500 Mission Ridge Rd",
         duration: "1 hour",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Santa_Barbara_Mission_Rose_Garden.jpg/1280px-Santa_Barbara_Mission_Rose_Garden.jpg",
+        image: "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&h=500&fit=crop&q=80",
         tips: "Best visited April-June for peak bloom. Bring a camera for photos."
     },
     {
@@ -419,7 +419,7 @@ const activities = [
         priceType: "free",
         location: "7699 Hollister Ave, Goleta",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Monarch_Butterfly_Cluster.jpg/1024px-Monarch_Butterfly_Cluster.jpg",
+        image: "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800&h=500&fit=crop&q=80",
         tips: "Best viewing November-February. Docents often available to answer questions."
     },
     {
@@ -431,7 +431,7 @@ const activities = [
         priceType: "free",
         location: "Coal Oil Point, Goleta",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Coal_Oil_Point_Reserve.jpg/1280px-Coal_Oil_Point_Reserve.jpg",
+        image: "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?w=800&h=500&fit=crop&q=80",
         tips: "Stay on marked trails to protect wildlife. Best for bird watching at dawn."
     },
     
@@ -445,7 +445,7 @@ const activities = [
         priceType: "free",
         location: "Santa Barbara & Cota St",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Santa_Barbara_Farmers_Market.jpg/1280px-Santa_Barbara_Farmers_Market.jpg",
+        image: "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=800&h=500&fit=crop&q=80",
         tips: "Arrive early (8am) for best selection. Bring cash for smaller vendors."
     },
     {
@@ -457,7 +457,7 @@ const activities = [
         priceType: "free",
         location: "Cabrillo Blvd at Chase Palm Park",
         duration: "1-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Santa_Barbara_Arts_and_Crafts_Show.jpg/1280px-Santa_Barbara_Arts_and_Crafts_Show.jpg",
+        image: "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=500&fit=crop&q=80",
         tips: "Every Sunday 10am-dusk. Great place to find unique souvenirs."
     },
     {
@@ -469,7 +469,7 @@ const activities = [
         priceType: "free",
         location: "Various locations",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santa_Barbara_Bowl_Concert.jpg/1280px-Santa_Barbara_Bowl_Concert.jpg",
+        image: "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&h=500&fit=crop&q=80",
         tips: "Check local event calendars. Bring blankets and picnic supplies."
     },
     {
@@ -481,7 +481,7 @@ const activities = [
         priceType: "free",
         location: "Santa Barbara Harbor",
         duration: "3-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Commercial_fishing_boats_Santa_Barbara.jpg/1280px-Commercial_fishing_boats_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1559339352-11d035aa65de?w=800&h=500&fit=crop&q=80",
         tips: "Usually held in October. Arrive early for the best activities."
     },
     {
@@ -493,7 +493,7 @@ const activities = [
         priceType: "free",
         location: "State Street & Alameda Park",
         duration: "4-6 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Santa_Barbara_Solstice_Parade.jpg/1280px-Santa_Barbara_Solstice_Parade.jpg",
+        image: "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&h=500&fit=crop&q=80",
         tips: "Held in late June. No written words or motors allowed in the parade!"
     },
     {
@@ -505,7 +505,7 @@ const activities = [
         priceType: "free",
         location: "Various locations downtown",
         duration: "Variable",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Old_Spanish_Days_Fiesta_parade.jpg/1280px-Old_Spanish_Days_Fiesta_parade.jpg",
+        image: "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800&h=500&fit=crop&q=80",
         tips: "Held in August. Many free events, some ticketed. El Mercado De La Guerra is free."
     },
     {
@@ -517,7 +517,7 @@ const activities = [
         priceType: "free",
         location: "Alameda Park",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alameda_Park_Santa_Barbara.jpg/1280px-Alameda_Park_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=500&fit=crop&q=80",
         tips: "Held in April. Bring reusable bags and water bottles."
     },
     {
@@ -529,7 +529,7 @@ const activities = [
         priceType: "free",
         location: "Chase Palm Park Great Meadow",
         duration: "1.5-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Chase_Palm_Park_Santa_Barbara.jpg/1280px-Chase_Palm_Park_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800&h=500&fit=crop&q=80",
         tips: "Thursdays 6-7:30 PM during summer. Bring a blanket and picnic dinner."
     },
     {
@@ -541,7 +541,7 @@ const activities = [
         priceType: "free",
         location: "SB County Courthouse Sunken Garden",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Santa_Barbara_Courthouse_Sunken_Gardens.jpg/1280px-Santa_Barbara_Courthouse_Sunken_Gardens.jpg",
+        image: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&h=500&fit=crop&q=80",
         tips: "Arrive early for good spots. Bring blankets, snacks, and warm layers."
     },
     {
@@ -553,7 +553,7 @@ const activities = [
         priceType: "free",
         location: "UCSB Campus, Goleta",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/UCSB_Storke_Tower.jpg/800px-UCSB_Storke_Tower.jpg",
+        image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&h=500&fit=crop&q=80",
         tips: "Check online for tour schedules. The campus beach is worth visiting."
     },
     {
@@ -565,7 +565,7 @@ const activities = [
         priceType: "free",
         location: "Shoreline Park & other coastal points",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gray_whale_breaching.jpg/1280px-Gray_whale_breaching.jpg",
+        image: "https://images.unsplash.com/photo-1568430462989-44163eb1752f?w=800&h=500&fit=crop&q=80",
         tips: "Best viewing December-April. Bring binoculars for better sightings."
     },
     
@@ -581,7 +581,7 @@ const activities = [
         priceType: "lowcost",
         location: "Santa Barbara Harbor",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Stand_up_paddle_surfing.jpg/1280px-Stand_up_paddle_surfing.jpg",
+        image: "https://images.unsplash.com/photo-1526188717906-ab4a2f949f26?w=800&h=500&fit=crop&q=80",
         tips: "Morning hours offer calmest water. Group rates often available."
     },
     {
@@ -593,7 +593,7 @@ const activities = [
         priceType: "lowcost",
         location: "Santa Barbara Harbor",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kayaking_Santa_Barbara.jpg/1280px-Kayaking_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1544652478-6653e09f18a2?w=800&h=500&fit=crop&q=80",
         tips: "Single kayaks around $10/hour. Double kayaks slightly more."
     },
     
@@ -607,7 +607,7 @@ const activities = [
         priceType: "lowcost",
         location: "1130 State St",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Santa_Barbara_Museum_of_Art.jpg/1280px-Santa_Barbara_Museum_of_Art.jpg",
+        image: "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?w=800&h=500&fit=crop&q=80",
         tips: "Free First Thursday evenings (5-8 PM) and Second Sundays. $6 for children 6-17."
     },
     {
@@ -619,7 +619,7 @@ const activities = [
         priceType: "lowcost",
         location: "2201 Laguna St",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mission_Santa_Barbara.jpg/1280px-Mission_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=500&fit=crop&q=80",
         tips: "Self-guided tour included with admission. Courtyard and grounds free to explore."
     },
     {
@@ -631,7 +631,7 @@ const activities = [
         priceType: "lowcost",
         location: "123 E Canon Perdido St",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/El_Presidio_de_Santa_Barbara.jpg/1280px-El_Presidio_de_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1590735213920-68192a487bc2?w=800&h=500&fit=crop&q=80",
         tips: "Combined ticket available with other historic sites. Guided tours on weekends."
     },
     {
@@ -643,7 +643,7 @@ const activities = [
         priceType: "lowcost",
         location: "113 Harbor Way",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Santa_Barbara_Maritime_Museum.jpg/1280px-Santa_Barbara_Maritime_Museum.jpg",
+        image: "https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=800&h=500&fit=crop&q=80",
         tips: "$8 for seniors, $2 with EBT card. Third Thursday free 5-8 PM."
     },
     {
@@ -655,7 +655,7 @@ const activities = [
         priceType: "lowcost",
         location: "2559 Puesta del Sol",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Santa_Barbara_Museum_of_Natural_History.jpg/1280px-Santa_Barbara_Museum_of_Natural_History.jpg",
+        image: "https://images.unsplash.com/photo-1566274360936-69fae3dc0f29?w=800&h=500&fit=crop&q=80",
         tips: "$3 with EBT card for up to 4 people. Free through SoCal Museums Free-For-All."
     },
     
@@ -669,7 +669,7 @@ const activities = [
         priceType: "lowcost",
         location: "1212 Mission Canyon Rd",
         duration: "2-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Santa_Barbara_Botanic_Garden.jpg/1280px-Santa_Barbara_Botanic_Garden.jpg",
+        image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=500&fit=crop&q=80",
         tips: "Free first Sunday of each month. Free for seniors 60+ on specific dates."
     },
     {
@@ -681,7 +681,7 @@ const activities = [
         priceType: "lowcost",
         location: "500 Ninos Dr",
         duration: "2-4 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Santa_Barbara_Zoo_giraffe.jpg/800px-Santa_Barbara_Zoo_giraffe.jpg",
+        image: "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?w=800&h=500&fit=crop&q=80",
         tips: "$3 admission for families receiving food assistance. Children under 2 free."
     },
     {
@@ -693,7 +693,7 @@ const activities = [
         priceType: "lowcost",
         location: "2225 Highway 154, Santa Barbara",
         duration: "3-5 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lake_Cachuma.jpg/1280px-Lake_Cachuma.jpg",
+        image: "https://images.unsplash.com/photo-1439066615861-d1af74d74000?w=800&h=500&fit=crop&q=80",
         tips: "$10 per vehicle includes nature programs. Eagle cruises available in winter."
     },
     {
@@ -705,7 +705,7 @@ const activities = [
         priceType: "lowcost",
         location: "304 N Los Carneros Rd, Goleta",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Stow_House_Goleta.jpg/1280px-Stow_House_Goleta.jpg",
+        image: "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=500&fit=crop&q=80",
         tips: "Suggested donation. Beautiful grounds for picnicking."
     },
     
@@ -719,7 +719,7 @@ const activities = [
         priceType: "lowcost",
         location: "236 E Cabrillo Blvd",
         duration: "30 minutes",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Carousel_at_Chase_Palm_Park.jpg/1024px-Carousel_at_Chase_Palm_Park.jpg",
+        image: "https://images.unsplash.com/photo-1570179538662-166d2bffed42?w=800&h=500&fit=crop&q=80",
         tips: "Open daily during summer, weekends in winter. Cash preferred."
     },
     {
@@ -731,7 +731,7 @@ const activities = [
         priceType: "lowcost",
         location: "Various waterfront locations",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wine_tasting_in_Santa_Barbara.jpg/1280px-Wine_tasting_in_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&h=500&fit=crop&q=80",
         tips: "Many tasting fees waived with bottle purchase. The Funk Zone has multiple options."
     },
     {
@@ -743,7 +743,7 @@ const activities = [
         priceType: "lowcost",
         location: "211 Stearns Wharf",
         duration: "1-2 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sea_Center_Santa_Barbara.jpg/1280px-Sea_Center_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1544551763-92ab472cad5d?w=800&h=500&fit=crop&q=80",
         tips: "Third Thursday of each month is free (3-5pm). Great for kids."
     },
     
@@ -757,7 +757,7 @@ const activities = [
         priceType: "lowcost",
         location: "Various rental shops",
         duration: "1-3 hours",
-        image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cabrillo_Bikeway_Santa_Barbara.jpg/1280px-Cabrillo_Bikeway_Santa_Barbara.jpg",
+        image: "https://images.unsplash.com/photo-1471506480208-91b3a4cc78be?w=800&h=500&fit=crop&q=80",
         tips: "Hourly rentals available. Surrey bikes and electric bikes cost more."
     }
 ];

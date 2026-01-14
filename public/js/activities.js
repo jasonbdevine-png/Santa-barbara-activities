@@ -53,7 +53,7 @@ const activities = [
         priceType: "free",
         location: "2981 Cliff Dr",
         duration: "2-4 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=H0xvhuOsffsjkuVbZgWdvw25aVtiTtC78OFpXFwF8nDaz8x2K3eoU7Fl0VvF%2BJXrzpwBrlA4y2JMmJ4mk8auzZgI7XMzEI0zP697H74mNUl%2BiVbPELya9ZjD9Q%2Fo0hocwf70Gto37qrfvV0h7lCG72LwX1gx&u2=kGIejPMumsvODnsM&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=mbWId2jl0g4Axpyrlqd14ijBByNkY9048oyW7a2euM2cnrIJ7bybynLhTsu%2F36408irldmpHAwaJ1oO0m6sPRLaO%2BqTe5b1dgngQAGkClBLRVN%2F4CkggXRMWHdqJ6CFi9zJTtZwvDUN2lVvHhzVZ0BWEFWY%3D&u2=6%2BUL7ulJoYYshyYR&width=2560",
         tips: "Dogs allowed off-leash in designated area. Free parking lot fills up fast on weekends."
     },
     {
@@ -65,7 +65,7 @@ const activities = [
         priceType: "free",
         location: "W Cabrillo Blvd",
         duration: "2-4 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=KJV8gvYPKwe0Z8iHRyWe8oxSe2rHRIsuS%2F4pKqKiVAK1T2e04d22RCPuxSwRD1PhvFzKgZ%2F1Qy8jUE64wBRxlFFQL%2BJnve69XAHqxieRyIbP6JjnHSUXxynEw5eNq3xp6t1d3EOFsK03VPjrK6WzgMsr2w91XYQ7rHVPXLMNYyFdOn%2F0uYqexFE9XGU4HSGOXIpKtUZcTpFKWIzdmtMMSfjBDLopxp9HVkbc7U5bJbX%2BROXEc2FBFAfliB9xMO%2FUYOpinJaYPutfAQ%3D%3D&u2=e7Zq936y4SZh4II2&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=grjV9FU0E%2BhSbntKt97zoRTWKC45G5q3M%2FWY4Q7YxlR8HYmvfwTMRLsU1sqviBvcyrFj5sCEgsYKNAdAMuTUuhppU%2B8o%2Fr7rqwvqP1yXcA%3D%3D&u2=TMOJJBXCpj76gw%2FA&width=2560",
         tips: "Calmer waters make it perfect for beginners. Close to Stearns Wharf."
     },
     {
@@ -115,7 +115,7 @@ const activities = [
         priceType: "free",
         location: "Tunnel Rd, Mission Canyon",
         duration: "2-3 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=G1vgch2M8%2FXNZTbyunNho6Ysn2jYC%2FAAbcTXJQ17WRwJA0PnoHsrffagSJ5%2B5rIcJQaf5PbXgEx1hGu25B9iGSOWZVJnXeNB9AgzK%2BNs2ncY4jJdFil4%2Bg6e0eQm4NLeiYs%2F&u2=iajmnvRx1avg4yMm&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=73BfvudvQR5QAlhV1ZSWJt%2FtvWm8Urc6rde5ptbiTEmLjukkR1cnU3nH%2F544TBPCcMIkHJchuuGMXcIHutfj5HfSsaFN6eu6ccwdK3SEsWd%2FNCp3WZREtnfxwxHu7sSaVmVEAlaIKgBvkgl9ypk11gtU&u2=Em9F4wAcdNnkRLiZ&width=2560",
         tips: "Trail can be slippery when wet. Swimming is allowed at the pools."
     },
     {
@@ -213,7 +213,7 @@ const activities = [
         priceType: "free",
         location: "217 Stearns Wharf",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=hzUavcKX9U46S%2F%2By39NWqh4NhN4y4rMRY1MqzCSwuQJwLV%2BPfhq6eS2SX%2FuVBsIXLaCWwmxZTRr%2BWb%2FLM%2Bqpvy%2BNL6LCdyZpXflb%2FqrR6QFbhZVNzqL0oWA%3D&u2=PQcC9BPAdMT0xGwg&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=nxKx2SxQafw6Z1xWxQ5tsGXT7nzyawNG3I04P3FkeCCM9pxa%2FcxSucl1Dt5vXcVePxw1xsXAV3ro0tnB5wFy9VgMOByePVDXVVUUoIbRo7YQGTBY%2FyLYPi7LXuuX%2BBLdV4qvYpmwykE%3D&u2=%2Fcd9AYa9ed0II5uj&width=2560",
         tips: "Visit at sunset for beautiful photos. First 90 minutes of parking is free."
     },
     {
@@ -321,7 +321,7 @@ const activities = [
         priceType: "free",
         location: "201 W Montecito St",
         duration: "15-30 minutes",
-        image: "https://sspark.genspark.ai/cfimages?u1=5kB9J0ZeuHOliiGnUeiIxkOtI7JBPNVt2GDf2y4gHCyWi1u1SulQYSehmQ4sdZ9H1yk%2B54Vx4eynFCR2boilCsPMDovaa8zE%2BGpIghHHlNjreMyGc3iHdx9tKJD8pqH8Sx93qERoadcrEPUnzFE%2B6xAaM3vN&u2=0JrWnDXEHH1MocWz&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=fybE7Qe4c6tETiy9iwdkwhMABR8OjU%2BYDdIdxQ1Fl9lXafNNFl3wSF2vYHCexvURARQiYB8b%2BLUQpseAzGVT88GPtx1acXcK1j4vNAfrz8C4Vp7L5a9kmYFJ6Dw%3D&u2=auY4y%2Bq7%2FLlw%2BXsA&width=2560",
         tips: "Great photo opportunity. Located near the train station."
     },
     {
@@ -347,7 +347,7 @@ const activities = [
         priceType: "free",
         location: "1500 Santa Barbara St",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=oQT8rHevjyERkEctKfj6PCJSk4vDUCO9t6m3CUuKg1vWlzZB%2BTz7gmjsnNw8MuvGP3K47zkwSoov5VHNhfEZ3vXf%2FjC3deKfF47zK%2FFRBXJF3HPqrkAoK4A%2Brobv3tJuwrcKIe6rjkx7ow%2BqZbhfewL8jv158sVc7rTI%2F%2F3s&u2=F29K%2FaSjUbuVAqxC&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=B8WkUxRe2OwNO80TaIwSioPiHH879dMRmJ9zozDbgwB8931xfpZq8P5O9QZia2Lgd2vOZa9%2FOUhbRUqisNZph%2F8%2BntjFP0qxl1yG1SJETWZpEOYMMe%2FI&u2=4ucBOW9SFbMwynNn&width=2560",
         tips: "Bring bread to feed the koi fish. Best visited in spring for blooming flowers."
     },
     {
@@ -371,7 +371,7 @@ const activities = [
         priceType: "free",
         location: "1298 Las Positas Rd",
         duration: "2-4 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=7w8efcmlV7%2BkyJHCuAYjXQINNxmzQ2pS%2FLodBXcIe%2FMwAD%2FInudhqOfVxsr9L6HOFXvuYGykWe6YOsX%2FoDEyBj59UkrJ0zKAtwRHLkyS2Lu%2BjbUMJg%3D%3D&u2=3dP%2FhUhKKPXGe9GA&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=yKQgFCNPYqX4Pvr7mFIk1tqb6eWqfOvh2uW%2FdVIEm474qgF5UX4dnSi5kYeARsPxvYidtNrxCEhbsPVc9sc%2FfF3M886O4RYCS9vXE%2Bgizk%2BfRPGBuTkvJ%2Bt7QJeXYv670gqjaHbnwx4Xro4AwrrmAosP%2B53pTtdJzxvpJoLZCF%2FHRJuPShfWcbWh&u2=f%2FyyPaT0o%2FGp08Rd&width=2560",
         tips: "Watch paragliders launch from the hilltop. Dog-friendly trails throughout."
     },
     {
@@ -457,7 +457,7 @@ const activities = [
         priceType: "free",
         location: "Cabrillo Blvd at Chase Palm Park",
         duration: "1-3 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=VQbzZs%2B6192k7RBCaAqAjim6SYrxCvnMBOhSe1pduIU0PkmO5uXeSSf2sU4pyagkKD5ZM16K5wTmb52KFMY5voYJ9rRUKYdGWX8tHymC5oEj2iD3eWX4YvYMmSq46jDDVNpDAo6MVd75hHFV3%2Bi3hfCW8gty&u2=ORQ7b4zCO%2BqiJwjB&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=nxwgtaarXZ%2FlgMtDu98ll%2F9MNaDBa2YEwOc60iWCLTWQa1cmk3fKfDl3xtnTtCsZ4lyxb8OOV0vAwFwk2NrhMe8uYCHV1jVm6MMYx33ccEAkpl1AI7e3uCRK8ZRsZit4t%2BodsO5LEIQAE%2Foq2Os1dwYEhA%3D%3D&u2=SVBAWquJFrOTovzx&width=2560",
         tips: "Every Sunday 10am-dusk. Great place to find unique souvenirs."
     },
     {
@@ -481,7 +481,7 @@ const activities = [
         priceType: "free",
         location: "Santa Barbara Harbor",
         duration: "3-4 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=4193569159%2F%2Fflickr&u2=F5Usv6M%2F5T2zrxX5&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=Lw7BIwHp4dxXvKSjoNsfQaKm%2ByjEEITILNK89QgtX%2FC4yMnr5IElncH2FNcq8uIIuaD7Ib2TfbLxC0uEAON%2BoYgl%2Bxr%2B%2B3LCvuwwSlOEScQMeJw9KO1pIAsQ1jW%2B0X0ygYk8V2UUM5iC99Muh1l2cv%2BkvHAyXPmm42g4WdcuEBDJOnnwLnrmqKBLAJkwSV3F0PYa40QaQh7zRMSqKXc%2FxfDUhcOIVAwxaWtXXWKezpnHjwzXUL9Nd2t54n1oWOonBRSIE4IfTmpSSIvQ0fStknSgeD2BPXRQGBXglw%3D%3D&u2=RWhPSzPi6CpG2v3%2B&width=2560",
         tips: "Usually held in October. Arrive early for the best activities."
     },
     {
@@ -553,7 +553,7 @@ const activities = [
         priceType: "free",
         location: "UCSB Campus, Goleta",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=EmSolYRPLGEG7EII%2FL4nVuUtUlO9x4FGEwEPr1zXukjGfx1wFkQgGHfgHaLwiteU1KhNquoQqHhUw7DX5KUyKdveDN0exl1DqRNanic9%2Bd6M1mlFyvDpo%2F4%3D&u2=m2uTwk4wRqrfbJca&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=ea7DOFJ3GkOUT9jM3YG%2Bne5IvOrJv56hiT4obPP1mBdIeip%2FF0%2FKgt8Vv4hgew6BXm5yuwpg5mdxYB1hM2ZI2maYKDdn59KZa85kTkXc5uhM%2Fppfm3Ywz1WeR%2BUzK34eP%2BIdBGzNhFU7LtIpJ9aLPaSZp%2F9VGHIbUojEXhDbwlQnZWRtFoYwEFdYv5t420lhkg2iEM1B7Thvpzt%2FEOEFvi5eYBLg%2BNg%3D&u2=Gl3BTuXxyl4oKAUH&width=2560",
         tips: "Check online for tour schedules. The campus beach is worth visiting."
     },
     {
@@ -643,7 +643,7 @@ const activities = [
         priceType: "lowcost",
         location: "113 Harbor Way",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=8969360752%2F%2Fflickr&u2=F5Usv6M%2F5T2zrxX5&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=gEtb5oiSD%2FxMmwDphTY9rGzYhl1Xsk7qW%2Bs5DVjPN9wqps7EbR9s5LjJ70dAn4OfDKhh%2BCcq3wyaue3RVczM5po4RN9zgOPF5%2FHimiP3rVC0BaHbQxH0YIxJzZ%2BH4vdT&u2=GFnoqcP8guloVm%2BW&width=2560",
         tips: "$8 for seniors, $2 with EBT card. Third Thursday free 5-8 PM."
     },
     {
@@ -719,7 +719,7 @@ const activities = [
         priceType: "lowcost",
         location: "236 E Cabrillo Blvd",
         duration: "30 minutes",
-        image: "https://sspark.genspark.ai/cfimages?u1=FkwC7WfG0b994xfClZGLV2%2B2avh4zb0y1sw4MWTfNSrcc2KLj2YjjSJlsDGgyykyjwniU1NJGOmYk%2F4OHJpeFEIyNK5RmqpNku6LfbsTJ6EQAsgF%2B5sZlbnqUya4GPsQIsAH1%2FMHfkzM8QiszCk%3D&u2=ZC1x8CXV7VWiWzUG&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=2BRuI9eW7hlrtHNzQW%2B8tUlQoCDnZ6L1B%2BNDlfZxKSfLFo%2BZWd7nULZyz41OQG4%2F6WYlClycOyS9o7Sl0wZjjXxk8mtF2pS8d0%2B3zscyD9HvJKpBkraQHP%2FQXkulWUbT60alnAD%2Bysq4EFXl&u2=NF%2FZPHv2virtqVsm&width=2560",
         tips: "Open daily during summer, weekends in winter. Cash preferred."
     },
     {
@@ -743,7 +743,7 @@ const activities = [
         priceType: "lowcost",
         location: "211 Stearns Wharf",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=6035466664%2F%2Fflickr&u2=F5Usv6M%2F5T2zrxX5&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=P91xjSBt5RM3g5J%2BN%2B3VcYio1FyiNaNfix9R4c3bkE7uKBpLpBYB7iUK6vHtFdiGxUg1du%2BLJx5Qlj7pXtYlIsIZOSiHSZSaNSY%2BNP0Quu%2B2mIdahvkPuaJRVnPUblr%2BvjDjAWXBeKBXDcuzXdh5&u2=%2FhmLAuqfINZewqko&width=2560",
         tips: "Third Thursday of each month is free (3-5pm). Great for kids."
     },
     

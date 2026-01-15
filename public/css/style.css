@@ -70,10 +70,11 @@ a {
     justify-content: flex-end;
     align-items: center;
     text-align: center;
-    background: url('/images/hero-banner.jpg');
+    background-image: url('/images/hero-banner.jpg');
+    background-color: #1a5a7a;
     background-size: cover;
-    background-position: center top;
-    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
     color: var(--white);
     overflow: hidden;
     padding-bottom: 80px;
@@ -88,24 +89,17 @@ a {
     bottom: 0;
     background: linear-gradient(
         to bottom,
-        rgba(0, 40, 80, 0.15) 0%,
-        rgba(0, 40, 80, 0.1) 30%,
-        rgba(0, 30, 60, 0.2) 50%,
-        rgba(0, 20, 50, 0.5) 70%,
-        rgba(0, 15, 40, 0.75) 85%,
-        rgba(0, 10, 30, 0.9) 100%
+        transparent 0%,
+        transparent 40%,
+        rgba(0, 20, 40, 0.3) 60%,
+        rgba(0, 15, 35, 0.6) 80%,
+        rgba(0, 10, 25, 0.8) 100%
     );
     pointer-events: none;
 }
 
 .hero-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: radial-gradient(ellipse at top center, transparent 0%, rgba(0, 30, 60, 0.2) 100%);
-    pointer-events: none;
+    display: none;
 }
 
 /* Navbar */
@@ -739,10 +733,6 @@ a {
    Responsive Design
    =================================== */
 @media (max-width: 992px) {
-    .hero {
-        background-attachment: scroll;
-    }
-    
     .hero h1 {
         font-size: 3.5rem;
     }

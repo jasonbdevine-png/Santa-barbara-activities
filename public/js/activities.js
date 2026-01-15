@@ -89,7 +89,7 @@ const activities = [
         priceType: "free",
         location: "5986 Sandspit Rd, Goleta",
         duration: "2-4 hours",
-        image: "https://www.genspark.ai/api/files/s/0rrhdBOg",
+        image: "/images/goleta-beach.jpg",
         tips: "Great fishing spot from the pier. Restaurant on-site for convenient meals."
     },
     
@@ -607,7 +607,7 @@ const activities = [
         priceType: "lowcost",
         location: "1130 State St",
         duration: "2-3 hours",
-        image: "https://www.genspark.ai/api/files/s/7XFw807w",
+        image: "/images/sb-museum-of-art.jpg",
         tips: "Free First Thursday evenings (5-8 PM) and Second Sundays. $6 for children 6-17."
     },
     {
@@ -681,7 +681,7 @@ const activities = [
         priceType: "lowcost",
         location: "500 Ninos Dr",
         duration: "2-4 hours",
-        image: "https://www.genspark.ai/api/files/s/8LlZpwAi",
+        image: "/images/santa-barbara-zoo.jpg",
         tips: "$3 admission for families receiving food assistance. Children under 2 free."
     },
     {

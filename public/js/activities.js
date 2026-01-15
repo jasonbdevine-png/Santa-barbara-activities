@@ -89,7 +89,7 @@ const activities = [
         priceType: "free",
         location: "5986 Sandspit Rd, Goleta",
         duration: "2-4 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=fyaoP0HxgJSz8mGVijVVrMiuTxtFiXn%2BwqYH0ktsw%2B2CPDPNNbiVULgsEwPv%2BdiLZeIYVnijkWbDYmUCsi%2BDsO91T36oeNRt4KTZtn4s1TjtKyY9uf8rWQ%3D%3D&u2=IqJH4DIuA2crAlXL&width=2560",
+        image: "https://www.genspark.ai/api/files/s/0rrhdBOg",
         tips: "Great fishing spot from the pier. Restaurant on-site for convenient meals."
     },
     
@@ -607,7 +607,7 @@ const activities = [
         priceType: "lowcost",
         location: "1130 State St",
         duration: "2-3 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=i07d4V7L9nFmqc4S6o18cL4GUx1nEQQSYHGOYBnSjRn2fmk%2FKwa8SWlCNfQwHUuuWEU1ekEJIKts4n7TvbrDbhyvw5ctb6h84qv0WNJUuGysQdyqgI0%2BMlsVvlV4MO8iwVNZFPvsb%2BFBZA%2BbQLs4CRr2H8Uh8ouiyJjHQI18gtw0SOmQOw8%3D&u2=A9l09TDkFix0OOGR&width=2560",
+        image: "https://www.genspark.ai/api/files/s/7XFw807w",
         tips: "Free First Thursday evenings (5-8 PM) and Second Sundays. $6 for children 6-17."
     },
     {
@@ -681,7 +681,7 @@ const activities = [
         priceType: "lowcost",
         location: "500 Ninos Dr",
         duration: "2-4 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=Y05saw2KXkicOUv%2FUYUHu04NGP2artU%2BYZwexYOTzp1MRp7mZSYKcSjaFbg6TCXqfFzczR7CXXXr8eIYHDtt5jDPNFgiKI6EGI1tYWHkDLKT6Il12UexdfgDfDM2TLSi5AHtzpGMvJACWErW8yZoLzGwUhc5NLqfeimCuW%2FCIQ%3D%3D&u2=o7xzKOmXbbOqYnYI&width=2560",
+        image: "https://www.genspark.ai/api/files/s/8LlZpwAi",
         tips: "$3 admission for families receiving food assistance. Children under 2 free."
     },
     {
@@ -731,7 +731,7 @@ const activities = [
         priceType: "lowcost",
         location: "Various waterfront locations",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=Wb%2BAZhjjuyFf4u3oKumswWIWzRW7QZn%2BqnZ8SLzZtf63wGPWj5w97Z8Ta0g0nDSnr7prn8jAG9MSxNSDY7cRQkFWsc9bB3hhp4EnEmpXpNb21Cpo7dH9%2B0YHiCqgltmD2jgJgQ%3D%3D&u2=4xBMT%2FceYfU8AMa3&width=2560",
+        image: "https://sspark.genspark.ai/cfimages?u1=ubQyyw8SOzSfEZSlo47O88Eker9fO2VTl6TVL2478NDTsJWTvo0lSfrwydfNq%2FPK4GtR0yP5lcTzOr3WkaY8HnckTAE1RW%2BUmzD5ZPBzchTVwpUwwsa%2B0ft8WDLs6q3Kw%2B2daPGlFO42p4dSLIoU6y9%2BmJMDtflg&u2=LhdpukMIqVqxLQzr&width=2560",
         tips: "Many tasting fees waived with bottle purchase. The Funk Zone has multiple options."
     },
     {

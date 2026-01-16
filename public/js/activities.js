@@ -619,7 +619,7 @@ const activities = [
         priceType: "lowcost",
         location: "2201 Laguna St",
         duration: "1-2 hours",
-        image: "https://sspark.genspark.ai/cfimages?u1=4p%2F06vRcDDcjk0ke8lIVgUPjgXfLlZ4VpzQAbNX5nrXYPNPSzW%2FpGslzbuB9aXdp46w5rrW3ymccPvdkvgRT%2BBNaGyEtBqtgxrSUzOkr9QVSA%2Bs77Mh8RlfgDQRuuH0HX%2Fz0zADk0bZoT59B4Gz11yYKTPtoSQ%3D%3D&u2=%2FFjnjX4pUnlbiVwr&width=2560",
+        image: "/images/old-mission-santa-barbara.jpg",
         tips: "Self-guided tour included with admission. Courtyard and grounds free to explore."
     },
     {
